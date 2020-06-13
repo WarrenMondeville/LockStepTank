@@ -1,2 +1,6 @@
 /Server/.vs
 /.vs
+/Server/.idea
+/Server/LockStepServer/obj
+/Server/LockStepServer/.vs
+/Server/LockStepServer/bin
