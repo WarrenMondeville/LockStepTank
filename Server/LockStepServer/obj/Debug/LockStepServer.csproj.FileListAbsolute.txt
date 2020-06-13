@@ -1,7 +1,0 @@
-E:\MyGit\LockStepTank\Server\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
-E:\MyGit\LockStepTank\Server\ConsoleApp1\bin\Debug\ConsoleApp1.exe
-E:\MyGit\LockStepTank\Server\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
-E:\MyGit\LockStepTank\Server\ConsoleApp1\obj\Debug\LockStepServer.csprojAssemblyReference.cache
-E:\MyGit\LockStepTank\Server\ConsoleApp1\obj\Debug\LockStepServer.csproj.CoreCompileInputs.cache
-E:\MyGit\LockStepTank\Server\ConsoleApp1\obj\Debug\ConsoleApp1.exe
-E:\MyGit\LockStepTank\Server\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
