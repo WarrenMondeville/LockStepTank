@@ -1,0 +1,7 @@
+E:\GitData\lockstepfire\IDG_FightServer\newfightserver\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\GitData\lockstepfire\IDG_FightServer\newfightserver\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\GitData\lockstepfire\IDG_FightServer\newfightserver\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\GitData\lockstepfire\IDG_FightServer\newfightserver\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+E:\GitData\lockstepfire\IDG_FightServer\newfightserver\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\GitData\lockstepfire\IDG_FightServer\newfightserver\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\GitData\lockstepfire\IDG_FightServer\newfightserver\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

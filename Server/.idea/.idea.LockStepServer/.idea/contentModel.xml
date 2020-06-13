@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\z\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\z\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_LockStepServer.-1088321463.00" t="ExcludeRecursive" />
+    <e p="E:\MyGit\LockStepTank\Server" t="IncludeFlat">
+      <e p="ConsoleApp1" t="IncludeRecursive">
+        <e p="LockStepServer.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="LockStepServer.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
