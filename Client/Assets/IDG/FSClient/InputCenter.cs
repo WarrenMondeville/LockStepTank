@@ -159,7 +159,7 @@ namespace IDG.FSClient {
         /// <summary>
         /// 发送本地客户端帧信息
         /// </summary>
-        protected void SendClientFrame(object sender, ElapsedEventArgs e)
+        protected void  SendClientFrame(object sender, ElapsedEventArgs e)
         {
             if (client.ServerCon.clientId < 0) return;
             ProtocolBase protocol = new ByteProtocol();
