@@ -4,3 +4,8 @@
 /Server/LockStepServer/obj
 /Server/LockStepServer/.vs
 /Server/LockStepServer/bin
+/Client/Library
+/Client/Logs
+/Client/Temp
+/Client/.idea
+/Client/obj

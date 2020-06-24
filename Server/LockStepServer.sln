@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.902
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LockStepServer", "ConsoleApp1\LockStepServer.csproj", "{BC8BBF35-DF1C-4F17-88C2-408337360563}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LockStepServer", "LockStepServer\LockStepServer.csproj", "{BC8BBF35-DF1C-4F17-88C2-408337360563}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
